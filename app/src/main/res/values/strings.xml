@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Listmaker</string>
+    <string name="name_of_list">whatisthenameofyourlist</string>
+    <string name="create_list">create</string>
+    <string name="task_to_add">what is the task you want to add</string>
+    <string name="add_task">ใส่ค่าtask</string>
+</resources>
